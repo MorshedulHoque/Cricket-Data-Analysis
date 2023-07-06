@@ -12,6 +12,11 @@ The collected data undergoes preprocessing using the powerful Pandas library to 
 ## Dashboard Creation
 The core component of the Cricket Data Analysis Project is the creation of an intuitive and visually appealing dashboard using Power BI. The dashboard provides users with a range of interactive visualizations and insightful metrics, enabling them to make data-driven decisions when building their cricket team. The user-friendly interface allows users to explore different parameters, compare players and teams, and identify trends and patterns in the data. 
 
+![benchmark](https://github.com/MorshedulHoque/Cricket-Data-Analysis/blob/main/Dashboard/Dashboard_1.png)
+![benchmark](https://github.com/MorshedulHoque/Cricket-Data-Analysis/blob/main/Dashboard/Dashboard_2.png)
+![benchmark](https://github.com/MorshedulHoque/Cricket-Data-Analysis/blob/main/Dashboard/Dashboard_3.png)
+
+
 ## Key Features
 * Web Scraping: Utilize BeautifulSoup for efficient data extraction from cricket websites.
 * Data Preprocessing: Employ pandas to clean, format, and transform the data for analysis.
